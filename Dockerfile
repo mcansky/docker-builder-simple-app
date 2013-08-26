@@ -1,6 +1,6 @@
 # APP DOCKERFILE
 
-FROM mcansky/ruby_193_base
+FROM mcansky/ruby_base
 
 # copy deploy.sh in the container
 # in bin
